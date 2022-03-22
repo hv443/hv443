@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hv443&show_icons=true&locale=en&layout=compact" alt="hv443" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hv443&show_icons=true&locale=en" alt="hv443" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hv443&" alt="hv443" /></p>
 
