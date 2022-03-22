@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CSS, JAVASCRIPT**
 
-- 👨‍💻 All of my projects are available at <a href= '(https://app.netlify.com/teams/hv443/overview?_ga=2.244165445.1584552947.1646915025-1739111594.1646645207)'>CLICK here.. </a>
+- 👨‍💻 All of my projects are available at <a href= "(https://app.netlify.com/teams/hv443/overview?_ga=2.244165445.1584552947.1646915025-1739111594.1646645207)">CLICK here.. </a>
 
 - 📫 How to reach me **vishwakarmaharsh443@gmail.com**
 
