@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hv443" target="blank"><img src="https://img.shields.io/twitter/follow/hv443?logo=twitter&style=for-the-badge" alt="hv443" /></a> </p>
 
-- 🌱 I’m currently learning **CSS, JAVASCRIPT**
+- 🌱
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/hv443?tab=repositories">Click...</a>
 
