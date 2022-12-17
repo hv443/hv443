@@ -5,7 +5,7 @@
 
 - 🌱 **Frontend Developer**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/hv443?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/hv443?tab=repositories)
 
 - 📫 How to reach me **vishwakarmaharsh443@gmail.com**
 
