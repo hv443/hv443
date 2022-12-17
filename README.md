@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hv443&label=Profile%20views&color=0e75b6&style=flat" alt="hv443" /> </p>
 
-- 🌱 **Frontend Dveloper**
+- 🌱 **Frontend Developer**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/hv443?tab=repositories)
 
