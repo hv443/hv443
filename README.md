@@ -14,15 +14,59 @@ My work spans booking platforms, logistics products, and home-service applicatio
 
 **Interested in frontend and full-stack opportunities.** [Let's connect →](mailto:vishwakarmaharsh443@gmail.com)
 
-## Core stack
+## Technical skills
 
-![Core stack: React, Next.js, TypeScript, Tailwind CSS](assets/core-stack.svg)
+**Frontend engineering**
 
-**Supporting tools:** Redux · REST APIs · Socket.io · Git
+<p>
+  <img src="assets/react.svg" alt="React" title="React" width="42" height="42" /> &nbsp;
+  <img src="assets/nextjs.svg" alt="Next.js" title="Next.js" width="42" height="42" /> &nbsp;
+  <img src="assets/typescript.svg" alt="TypeScript" title="TypeScript" width="42" height="42" /> &nbsp;
+  <img src="assets/javascript.svg" alt="JavaScript" title="JavaScript" width="42" height="42" /> &nbsp;
+  <img src="assets/html5.svg" alt="HTML5" title="HTML5" width="42" height="42" /> &nbsp;
+  <img src="assets/css3.svg" alt="CSS3" title="CSS3" width="42" height="42" /> &nbsp;
+  <img src="assets/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="42" height="42" /> &nbsp;
+  <img src="assets/redux.svg" alt="Redux" title="Redux" width="42" height="42" /> &nbsp;
+  <img src="assets/sass.svg" alt="SCSS" title="SCSS" width="42" height="42" /> &nbsp;
+</p>
+
+React · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Redux · SCSS
+
+**Backend & integration**
+
+<p>
+  <img src="assets/nodejs.svg" alt="Node.js" title="Node.js" width="42" height="42" /> &nbsp;
+  <img src="assets/express.svg" alt="Express" title="Express" width="42" height="42" /> &nbsp;
+  <img src="assets/firebase.svg" alt="Firebase" title="Firebase" width="42" height="42" /> &nbsp;
+</p>
+
+Node.js · Express · REST APIs · Socket.io · Firebase
+
+**Mobile development**
+
+<p>
+  <img src="assets/flutter.svg" alt="Flutter" title="Flutter" width="42" height="42" /> &nbsp;
+  <img src="assets/dart.svg" alt="Dart" title="Dart" width="42" height="42" /> &nbsp;
+</p>
+
+Flutter · Dart · GetX · Location API integration
+
+**Version control & deployment**
+
+<p>
+  <img src="assets/git.svg" alt="Git" title="Git" width="42" height="42" /> &nbsp;
+  <img src="assets/github.svg" alt="GitHub" title="GitHub" width="42" height="42" /> &nbsp;
+  <img src="assets/amazonwebservices.svg" alt="AWS" title="AWS" width="42" height="42" /> &nbsp;
+  <img src="assets/vercel.svg" alt="Vercel" title="Vercel" width="42" height="42" /> &nbsp;
+</p>
+
+Git · GitHub · AWS EC2 · S3 · CloudFront · Vercel
 
 ## Selected work
 
-[![ShiftBOOKD — booking interfaces, application state, and real-time chat](assets/shiftbookd.svg)](https://hv443-portfolio.vercel.app/)
+### ShiftBOOKD · Booking & communication
+
+<a href="https://hv443-portfolio.vercel.app/"><img src="assets/shiftbookd.png" alt="ShiftBOOKD website screenshot from my portfolio" width="900" /></a>
 
 Built responsive React interfaces for bookings, profiles, and messaging. Managed application state with Redux, integrated REST APIs and real-time chat with Socket.io, and deployed the application on AWS EC2.
 
@@ -30,7 +74,9 @@ Built responsive React interfaces for bookings, profiles, and messaging. Managed
 
 [View in my portfolio ↗](https://hv443-portfolio.vercel.app/)
 
-[![UseToo Logistics — service discovery, shipment tracking, web and mobile](assets/usetoo.svg)](https://hv443-portfolio.vercel.app/)
+### UseToo Logistics · Logistics & tracking
+
+<a href="https://www.usetoologistics.com/"><img src="assets/usetoo.png" alt="Live UseToo Logistics homepage" width="900" /></a>
 
 Work across a logistics website and mobile workflows, with interfaces for services, shipment tracking, and customer interactions.
 
@@ -38,7 +84,9 @@ Work across a logistics website and mobile workflows, with interfaces for servic
 
 [View in my portfolio ↗](https://hv443-portfolio.vercel.app/)
 
-[![Sit Back & Relax — service discovery, location search, and in-app chat](assets/sit-back.svg)](https://hv443-portfolio.vercel.app/)
+### Sit Back & Relax · Home services
+
+<a href="https://hv443-portfolio.vercel.app/"><img src="assets/sit-back.jpg" alt="Sit Back and Relax mobile mockup from my portfolio" width="460" /></a>
 
 Built a Flutter application connecting customers with service providers. Integrated location-based discovery, GetX state management, and in-app communication.
 
