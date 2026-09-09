@@ -1,70 +1,57 @@
-<h1 align="center">Hi 👋, I'm Harsh Vishwakarma</h1>
-<h3 align="center">Frontend Developer | React • TypeScript • Flutter</h3>
+![Harsh Vishwakarma — Software Developer. React, Next.js, TypeScript, and Flutter.](assets/profile-banner.svg)
 
 <p align="center">
-  <a href="https://hv443-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="mailto:vishwakarmaharsh443@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <a href="https://hv443-portfolio.vercel.app/"><strong>Portfolio</strong></a> &nbsp; · &nbsp;
+  <a href="https://linkedin.com/in/hv443"><strong>LinkedIn</strong></a> &nbsp; · &nbsp;
+  <a href="mailto:vishwakarmaharsh443@gmail.com"><strong>Email me</strong></a>
 </p>
 
----
+## Hi, I'm Harsh
 
-### 👨‍💻 About Me
-- 💻 Building scalable web & mobile apps  
-- ⚡ Focused on **React, TypeScript & Flutter**
-- 🎯 Love clean UI + performance optimization  
+I'm a **Software Developer based in Mumbai, India**, focused on frontend engineering with **React, Next.js, and TypeScript**. I also build mobile applications with Flutter and work across the stack with Node.js and Express.
 
----
+My work spans booking platforms, logistics products, and home-service applications—from responsive interfaces and application state to API integration and real-time communication.
 
-### 🛠️ Tech Stack
+**Interested in frontend and full-stack opportunities.** [Let's connect →](mailto:vishwakarmaharsh443@gmail.com)
 
-#### 🚀 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,redux" />
-</p>
+## Selected work
 
-#### ⚙️ Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+### ShiftBOOKD · Beauty & barber appointment platform
 
-#### 📱 Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
+Built responsive React interfaces for bookings, profiles, and messaging. Managed application state with Redux, integrated REST APIs and real-time chat with Socket.io, and deployed the application on AWS EC2.
 
-#### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+**React · TypeScript · SCSS · Redux · Socket.io · AWS EC2**
 
----
+[View in my portfolio ↗](https://hv443-portfolio.vercel.app/)
 
-### 📊 GitHub Stats
+### UseToo Logistics · Logistics web & mobile experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hv443&show_icons=true&theme=tokyonight" />
-</p>
+Work across a logistics website and mobile workflows, with interfaces for services, shipment tracking, and customer interactions.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hv443&theme=tokyonight" />
-</p>
+**Next.js · React · Tailwind CSS · React Native**
 
----
+[View in my portfolio ↗](https://hv443-portfolio.vercel.app/)
 
-### 🔥 Top Skills
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hv443&layout=compact&theme=tokyonight" />
-</p>
+### Sit Back & Relax · Home services application
 
----
+Built a Flutter application connecting customers with service providers. Integrated location-based discovery, GetX state management, and in-app communication.
 
-### 🌐 Connect With Me
-<p>
-  <a href="https://hv443-portfolio.vercel.app/">Portfolio</a> • 
-  <a href="https://github.com/hv443">GitHub</a> • 
-  <a href="mailto:vishwakarmaharsh443@gmail.com">Email</a>
-</p>
+**Flutter · Dart · GetX · Node.js · Express · Firebase**
+
+[View in my portfolio ↗](https://hv443-portfolio.vercel.app/)
+
+## Tools I work with
+
+| Area | Technologies |
+| :--- | :--- |
+| Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, SCSS |
+| State & integration | Redux, REST APIs, Socket.io |
+| Mobile | Flutter, Dart, React Native, GetX |
+| Backend & data | Node.js, Express, MongoDB, Firebase |
+| Development & deployment | Git, GitHub, AWS EC2, Vercel, Figma |
+
+## Get in touch
+
+For roles involving React, TypeScript, or full-stack product development, reach me at **[vishwakarmaharsh443@gmail.com](mailto:vishwakarmaharsh443@gmail.com)**.
+
+[Explore my portfolio](https://hv443-portfolio.vercel.app/) · [Connect on LinkedIn](https://linkedin.com/in/hv443)

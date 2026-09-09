@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Harsh Vishwakarma — Software Developer</title>
+  <desc id="desc">Web and mobile development. React, Next.js, TypeScript, and Flutter.</desc>
+  <rect width="1200" height="280" rx="20" fill="#101827"/>
+  <path d="M840 0v280M920 0v280M1000 0v280M1080 0v280M1160 0v280M800 60h400M800 140h400M800 220h400" stroke="#26354a" stroke-width="1"/>
+  <circle cx="1000" cy="140" r="82" fill="#162b36" stroke="#4bd9b0" stroke-opacity=".5"/>
+  <path d="m972 108-32 32 32 32m56-64 32 32-32 32m-16-80-24 96" fill="none" stroke="#6ee7c1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="52" y="48" width="36" height="4" rx="2" fill="#6ee7c1"/>
+  <text x="52" y="90" fill="#6ee7c1" font-family="Arial, sans-serif" font-size="15" letter-spacing="3">SOFTWARE DEVELOPER</text>
+  <text x="52" y="150" fill="#f4f7fb" font-family="Arial, sans-serif" font-size="49" font-weight="700">Harsh Vishwakarma</text>
+  <text x="54" y="194" fill="#b5c3d6" font-family="Arial, sans-serif" font-size="21">Thoughtful interfaces. Practical web &amp; mobile products.</text>
+  <text x="54" y="240" fill="#92a6bf" font-family="Arial, sans-serif" font-size="16">REACT  /  NEXT.JS  /  TYPESCRIPT  /  FLUTTER</text>
+</svg>
