@@ -10,7 +10,7 @@
 
 I'm a **Software Developer based in Mumbai, India**, focused on frontend engineering with **React, Next.js, and TypeScript**. I build responsive interfaces, manage application state, and connect products to APIs and real-time services.
 
-My work spans booking platforms, logistics products, and home-service applications—from responsive interfaces and application state to API integration and real-time communication.
+My work spans booking platforms and logistics products—from responsive interfaces and application state to API integration and real-time communication.
 
 **Interested in frontend and full-stack opportunities.** [Let's connect →](mailto:vishwakarmaharsh443@gmail.com)
 
@@ -81,16 +81,6 @@ Built responsive React interfaces for bookings, profiles, and messaging. Managed
 Work across a logistics website and mobile workflows, with interfaces for services, shipment tracking, and customer interactions.
 
 **Next.js · React · Tailwind CSS**
-
-[View in my portfolio ↗](https://hv443-portfolio.vercel.app/)
-
-### Sit Back & Relax · Home services
-
-<a href="https://hv443-portfolio.vercel.app/"><img src="assets/sit-back.jpg" alt="Sit Back and Relax mobile mockup from my portfolio" width="460" /></a>
-
-Built a Flutter application connecting customers with service providers. Integrated location-based discovery, GetX state management, and in-app communication.
-
-**Flutter · Dart**
 
 [View in my portfolio ↗](https://hv443-portfolio.vercel.app/)
 
